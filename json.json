@@ -28,11 +28,11 @@
   ],
   "Skin":
   [
-     {
+    {
       "id":1,
-      "nama_skin":"Batman",
-      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+      "name_skin":"airship skin",
+      "skin_url":"https://rastariski01.github.io/AmongAirshipMap/skin/skin%201.png",
+      "view_skin":"https://rastariski01.github.io/AmongAirshipMap/skin/1.png"
     }
   ],
   "Addons":
