@@ -1,0 +1,238 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin1.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/1.png"
+    },
+	{
+      "id":2,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin2.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/2.png"
+    },
+	{
+      "id":3,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin3.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/3.png"
+    },
+	{
+      "id":4,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin4.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/4.png"
+    },
+	{
+      "id":5,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin5.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/5.png"
+    },
+	{
+      "id":6,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin6.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/6.png"
+    },
+	{
+      "id":7,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin7.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/7.png"
+    },
+	{
+      "id":8,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin8.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/8.png"
+    },
+	{
+      "id":9,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin9.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin10.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/10.png"
+    },
+	 {
+      "id":11,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin11.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin12.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin13.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin14.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin15.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin16.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin17.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin18.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin19.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin20.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/20.png"
+    },
+	 {
+      "id":21,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin21.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin22.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin23.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin24.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin25.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin26.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin27.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin28.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin29.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"cuphead pack skin",
+      "skin_url":"https://executead.github.io/gambar/cuphead/skin30.png",
+      "view_skin":"https://executead.github.io/gambar/cuphead/30.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"cuphead pack mod pack",
+      "add_url":"https://archive.org/download/1_20220723_20220723_0253/1.zip",
+      "addB_url":"https://archive.org/download/1_20220723_20220723_0253/1B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220723_20220723_0253/1R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/cuphead/a1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":2,
+      "name_add":"cuphead pack mod pack",
+      "add_url":"https://archive.org/download/1_20220723_20220723_0253/2.zip",
+      "addB_url":"https://archive.org/download/1_20220723_20220723_0253/2B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220723_20220723_0253/2R.mcpack",
+      "view_add":"https://lemandevcv.github.io/lemangambar/cuphead/a2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
