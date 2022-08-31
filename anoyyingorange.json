@@ -1,0 +1,238 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin1.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/1.png"
+    },
+	{
+      "id":2,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin2.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/2.png"
+    },
+	{
+      "id":3,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin3.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/3.png"
+    },
+	{
+      "id":4,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin4.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/4.png"
+    },
+	{
+      "id":5,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin5.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/5.png"
+    },
+	{
+      "id":6,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin6.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/6.png"
+    },
+	{
+      "id":7,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin7.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/7.png"
+    },
+	{
+      "id":8,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin8.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/8.png"
+    },
+	{
+      "id":9,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin9.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin10.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/10.png"
+    },
+	{
+      "id":11,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin11.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin12.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin13.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin14.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin15.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin16.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin17.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin18.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin19.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin20.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/20.png"
+    },
+	{
+      "id":21,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin21.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin22.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin23.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin24.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin25.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin26.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin27.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin28.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin29.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"anoyying orange skin",
+      "skin_url":"https://executead.github.io/gambar/anoyyingorange/skin30.png",
+      "view_skin":"https://executead.github.io/gambar/anoyyingorange/30.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"anoyying orange mod pack",
+      "add_url":"https://executead.github.io/gambar/anoyyingorange/1.zip",
+      "addB_url":"https://executead.github.io/gambar/anoyyingorange/1B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/anoyyingorange/1R.mcpack",
+      "view_add":"https://executead.github.io/gambar/anoyyingorange/a1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":2,
+      "name_add":"anoyying orange mod pack",
+      "add_url":"https://executead.github.io/gambar/anoyyingorange/2.zip",
+      "addB_url":"https://executead.github.io/gambar/anoyyingorange/2B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/anoyyingorange/2R.mcpack",
+      "view_add":"https://executead.github.io/gambar/anoyyingorange/a2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
