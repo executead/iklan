@@ -1,0 +1,274 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin1.png",
+      "view_skin":"https://executead.github.io/gambar/nico/1.png"
+    },
+	{
+      "id":2,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin2.png",
+      "view_skin":"https://executead.github.io/gambar/nico/2.png"
+    },
+	{
+      "id":3,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin3.png",
+      "view_skin":"https://executead.github.io/gambar/nico/3.png"
+    },
+	{
+      "id":4,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin4.png",
+      "view_skin":"https://executead.github.io/gambar/nico/4.png"
+    },
+	{
+      "id":5,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin5.png",
+      "view_skin":"https://executead.github.io/gambar/nico/5.png"
+    },
+	{
+      "id":6,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin6.png",
+      "view_skin":"https://executead.github.io/gambar/nico/6.png"
+    },
+	{
+      "id":7,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin7.png",
+      "view_skin":"https://executead.github.io/gambar/nico/7.png"
+    },
+	{
+      "id":8,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin8.png",
+      "view_skin":"https://executead.github.io/gambar/nico/8.png"
+    },
+	{
+      "id":9,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin9.png",
+      "view_skin":"https://executead.github.io/gambar/nico/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin10.png",
+      "view_skin":"https://executead.github.io/gambar/nico/10.png"
+    },
+	{
+      "id":11,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin11.png",
+      "view_skin":"https://executead.github.io/gambar/nico/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin12.png",
+      "view_skin":"https://executead.github.io/gambar/nico/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin13.png",
+      "view_skin":"https://executead.github.io/gambar/nico/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin14.png",
+      "view_skin":"https://executead.github.io/gambar/nico/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin15.png",
+      "view_skin":"https://executead.github.io/gambar/nico/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin16.png",
+      "view_skin":"https://executead.github.io/gambar/nico/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin17.png",
+      "view_skin":"https://executead.github.io/gambar/nico/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin18.png",
+      "view_skin":"https://executead.github.io/gambar/nico/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin19.png",
+      "view_skin":"https://executead.github.io/gambar/nico/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin20.png",
+      "view_skin":"https://executead.github.io/gambar/nico/20.png"
+    },
+	{
+      "id":21,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin21.png",
+      "view_skin":"https://executead.github.io/gambar/nico/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin22.png",
+      "view_skin":"https://executead.github.io/gambar/nico/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin23.png",
+      "view_skin":"https://executead.github.io/gambar/nico/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin24.png",
+      "view_skin":"https://executead.github.io/gambar/nico/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin25.png",
+      "view_skin":"https://executead.github.io/gambar/nico/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin26.png",
+      "view_skin":"https://executead.github.io/gambar/nico/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin27.png",
+      "view_skin":"https://executead.github.io/gambar/nico/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin28.png",
+      "view_skin":"https://executead.github.io/gambar/nico/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin29.png",
+      "view_skin":"https://executead.github.io/gambar/nico/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"nico netbox skin",
+      "skin_url":"https://executead.github.io/gambar/nico/skin30.png",
+      "view_skin":"https://executead.github.io/gambar/nico/30.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"nico's netbox mod pack",
+      "add_url":"https://executead.github.io/gambar/nico/1.zip",
+      "addB_url":"https://executead.github.io/gambar/nico/1B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/nico/1R.mcpack",
+      "view_add":"https://executead.github.io/gambar/nico/ad1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":2,
+      "name_add":"nico's netbox mod pack",
+      "add_url":"https://executead.github.io/gambar/nico/2.zip",
+      "addB_url":"https://executead.github.io/gambar/nico/2B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/nico/2R.mcpack",
+      "view_add":"https://executead.github.io/gambar/nico/ad2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":3,
+      "name_add":"nico's netbox mod pack",
+      "add_url":"https://executead.github.io/gambar/nico/3.zip",
+      "addB_url":"https://executead.github.io/gambar/nico/3B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/nico/3R.mcpack",
+      "view_add":"https://executead.github.io/gambar/nico/ad3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":4,
+      "name_add":"nico's netbox mod pack",
+      "add_url":"https://executead.github.io/gambar/nico/4.zip",
+      "addB_url":"https://executead.github.io/gambar/nico/4B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/nico/4R.mcpack",
+      "view_add":"https://executead.github.io/gambar/nico/ad4.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":5,
+      "name_add":"nico's netbox mod pack",
+      "add_url":"https://executead.github.io/gambar/nico/5.zip",
+      "addB_url":"https://executead.github.io/gambar/nico/5B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/nico/5R.mcpack",
+      "view_add":"https://executead.github.io/gambar/nico/ad5.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	{
+      "id":6,
+      "name_add":"nico's netbox mod pack",
+      "add_url":"https://executead.github.io/gambar/nico/6.zip",
+      "addB_url":"https://executead.github.io/gambar/nico/6B.mcpack",
+      "addR_url":"https://executead.github.io/gambar/nico/6R.mcpack",
+      "view_add":"https://executead.github.io/gambar/nico/ad6.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
