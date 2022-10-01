@@ -1,0 +1,256 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+   
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin1.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/1.png"
+    },
+	{
+      "id":2,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin2.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/2.png"
+    },
+	{
+      "id":3,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin3.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/3.png"
+    },
+	{
+      "id":4,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin4.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/4.png"
+    },
+	{
+      "id":5,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin5.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/5.png"
+    },
+	{
+      "id":6,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin6.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/6.png"
+    },
+	{
+      "id":7,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin7.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/7.png"
+    },
+	{
+      "id":8,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin8.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/8.png"
+    },
+	{
+      "id":9,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin9.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin10.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/10.png"
+    },
+	{
+      "id":11,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin11.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin12.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin13.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin14.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin15.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin16.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin17.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin18.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin19.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin20.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/20.png"
+    },
+	{
+      "id":21,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin21.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin22.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin23.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin24.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin25.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin26.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin27.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin28.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin29.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"jenny mod skin",
+      "skin_url":"https://executead.github.io/gambar/jenny/skin30.png",
+      "view_skin":"https://executead.github.io/gambar/jenny/30.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"jenny mod mod pack",
+      "add_url":"https://archive.org/download/1_20220930/1.zip",
+      "addB_url":"https://archive.org/download/1_20220930/1B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220930/1R.mcpack",
+      "view_add":"https://executead.github.io/gambar/jenny/ad1.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":2,
+      "name_add":"jenny mod mod pack",
+      "add_url":"https://archive.org/download/1_20220930/2.zip",
+      "addB_url":"https://archive.org/download/1_20220930/2B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220930/2R.mcpack",
+      "view_add":"https://executead.github.io/gambar/jenny/ad2.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":3,
+      "name_add":"jenny mod mod pack",
+      "add_url":"https://archive.org/download/1_20220930/3.zip",
+      "addB_url":"https://archive.org/download/1_20220930/3B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220930/3R.mcpack",
+      "view_add":"https://executead.github.io/gambar/jenny/ad3.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    },
+	 {
+      "id":4,
+      "name_add":"jenny mod mod pack",
+      "add_url":"https://archive.org/download/1_20220930/4.zip",
+      "addB_url":"https://archive.org/download/1_20220930/4B.mcpack",
+      "addR_url":"https://archive.org/download/1_20220930/4R.mcpack",
+      "view_add":"https://executead.github.io/gambar/jenny/ad4.png",
+      "des_add":"https://lemandevcv.github.io/lemangambar/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
